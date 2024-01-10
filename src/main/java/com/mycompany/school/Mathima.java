@@ -9,7 +9,7 @@ package com.mycompany.school;
  * @author mishe
  */
 public class Mathima {
-
+    
     private int vathmos;
 
     /**
